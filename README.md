@@ -1,4 +1,4 @@
-# Deel learning Report
+# Deep learning Report
 
 Welcome to your report. This is the README file that will display on GitHub. You will need to place the Netlify status badge here. Also add the website URL of your Netlify site here.
 
